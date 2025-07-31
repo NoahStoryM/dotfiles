@@ -24,6 +24,7 @@
     (import <nixgl> { inherit pkgs; }).auto.nixGLDefault
 
     pkgs.chatbox
+    pkgs.claude-code
     pkgs.discord
     pkgs.firefox
     pkgs.gemini-cli
