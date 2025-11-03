@@ -92,6 +92,7 @@
      "wget2"
      "wine"
      "xterm"
+     "zig"
      "zip"
      "zsh"
      ;; "zoom"
